@@ -67,12 +67,28 @@
     </div>
   </div>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
+  <div class="container"> <!-- bootstrap에서 컨테이너 영역을 정해줌 ( 가운데로 모임 [ 예시 : 네이버 ]) -->
+    <div class="row"> <!-- bootstrap에서 열을 기준으로 영역을 나눈다. -->
+      <div class="col-12"> <!-- row영역 안에서 bootstrap은 기본적으로 12개로 구역을 나누는데 col-12는 12개 행 영역을 전부 쓰겠다는 뜻 -->
         <h2>Portfolio</h2>
       </div>
-      <div class="col-sm col-lg-6 bg-info">
+      <div class="col-sm col-lg-6 bg-info"> 
+        <!--
+
+          col-sm : 기본적으로 12개영역을 1:1비율로 쓰겠다는 뜻
+          ex) 
+          col-sm
+          col-sm
+          col-sm
+          이렇게 3개 있으면 3:3:3 비율로 행 영역을 나눈다는 뜻
+
+          col-lg-6 : 화면이 커지면 비율을 6으로 늘리겠다는 뜻
+
+          bg-info : 배경화면 색 중 하나
+
+          참고 : https://getbootstrap.com/docs/4.6/layout/grid/
+
+        -->
         <img src="./images/portfolio-1.jpg" class="img-fluid">
       </div>
       <div class="col-sm col-lg-3 bg-secondary">
