@@ -1,2 +1,13 @@
-# do_it_django_frontend_basic_inflearn
-Do it Django + BootStrap(  Basic frontEnd )
+
+<h1>Basic Django</h1>
+<hr>
+<ul>
+  <li>
+    <h2>Development Enviroment</h2>
+    <ul>
+      <li>IDE : Visual Studio Code</li>
+      <li>Language : Python( version : 3.8.6 )</li>
+      <li>Framework : None ( yet )</li>
+    <ul>
+  </li>
+</ul>
