@@ -7,7 +7,7 @@
     <ul>
       <li>IDE : Visual Studio Code</li>
       <li>Language : Python( version : 3.8.6 )</li>
-      <li>Framework : None ( yet )</li>
+      <li>Framework : None</li>
     <ul>
   </li>
 </ul>
